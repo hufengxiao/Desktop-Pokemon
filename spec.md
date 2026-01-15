@@ -6,7 +6,7 @@
 **项目定位**：跨平台赛博桌宠应用
 **技术栈**：Python 3.10+ + PySide6
 **目标平台**：Windows / macOS / Linux
-**GitHub**：[项目仓库地址]
+**GitHub**：https://github.com/hufengxiao/Desktop-Pokemon
 **当前版本**：v0.1.0-MVP
 **状态**：✅ MVP 完成，可运行
 
@@ -330,7 +330,10 @@ Desktop-Pokemon/
 
 ```bash
 # 克隆项目
-git clone [项目 GitHub URL]
+git clone https://github.com/hufengxiao/Desktop-Pokemon.git
+
+# 进入项目目录
+cd Desktop-Pokemon
 
 # 安装依赖
 pip install -r requirements.txt
