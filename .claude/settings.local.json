@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python generate_placeholder.py:*)",
+      "Bash(python:*)",
+      "Bash(tree:*)",
+      "Bash(pip install:*)",
+      "Bash(timeout 3 python:*)",
+      "Bash(taskkill:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
